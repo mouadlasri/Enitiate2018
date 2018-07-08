@@ -1,0 +1,64 @@
+
+body {
+	background-image: url('https://www.quackit.com/html/templates/download/bootstrap/business-2/images/header.jpg');
+	background-size: cover;
+}
+
+.header {
+	text-align: center;
+}
+
+#header-title {
+	font-size: 100px;
+	color: white;
+	font-family: Verdana;
+	margin-bottom: 0px;
+}
+
+#header-subtitle {
+	font-size: 30px;
+	color: brown;
+}
+
+h3 {
+	font-family: monospace;
+}
+
+.description {
+	margin-top: 100px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+.description p {
+	font-family: monospace;
+	color: white;
+	font-size: 20px;
+}
+
+.missions {
+	text-align: center;
+	border-style: solid;
+	border-color: brown;
+	border-radius: 5px;
+	background-color: white;
+	opacity: 0.6;
+	color: black;
+}
+
+
+ul {
+	text-align: center;
+}
+
+li {
+	color: black;
+	font-family: monospace;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.titles {
+	font-family: Arial;
+	font-size: 30px;
+}
